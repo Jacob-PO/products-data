@@ -1,0 +1,26 @@
+[
+  {
+    name: "김민수",
+    initial: "김",
+    product: "갤럭시 S25 Ultra",
+    comment: "<span class='review-highlight'>월 8만원대</span>로 이 스펙이면 완전 혜자!"
+  },
+  {
+    name: "이지영",
+    initial: "이",
+    product: "아이폰16 Pro",
+    comment: "상담도 친절하고 <span class='review-highlight'>할인도 많이</span> 받았어요"
+  },
+  {
+    name: "박준호",
+    initial: "박",
+    product: "갤럭시 Z플립6",
+    comment: "<span class='review-highlight'>예상보다 저렴</span>해서 바로 구매!"
+  },
+  {
+    name: "정수연",
+    initial: "정",
+    product: "아이폰16 Pro Max",
+    comment: "배송도 빠르고 <span class='review-highlight'>사후관리</span>까지 완벽"
+  }
+]
